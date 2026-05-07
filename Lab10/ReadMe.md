@@ -1,0 +1,1 @@
+This project applies Support Vector Machines (SVM) on the Iris dataset for classification. It includes data visualization, model training, prediction, evaluation, and hyperparameter tuning using GridSearchCV to improve model performance.
